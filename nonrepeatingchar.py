@@ -35,3 +35,5 @@ def find_first_non_repeated_char(sequence: str):
     	return(sequence[index])
 
     raise NotImplementedError
+
+print(find_first_non_repeated_char("TechNightmare"))
